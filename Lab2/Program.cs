@@ -17,7 +17,7 @@ namespace Lab2
             Shape3D my3DShape = null;
            
 
-            
+           
             for (int i = 0; i < 20; i++)
                 shapeList.Add(Shape.GenerateShape(new Vector3(3.0f, 3.0f, 4.0f)));
 

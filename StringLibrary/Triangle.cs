@@ -44,7 +44,7 @@ namespace ShapeLibrary
 
 
 
-        //för VG delen (går inte  så bra)
+        //för VG delen (går inte så bra)
         public Triangle _triangle;
         public int _index;
         public List<Triangle> _triangles = new List<Triangle>();
